@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64792ea9-6d2a-410a-a501-14e3171edbcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/chat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/whatsapp.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigator-indicators/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/command.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/command/sasha.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/App.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/App.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,6 +63,11 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\React\edgewebstudio\src\components\command" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -103,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598016785143</updated>
-      <workItem from="1598016787140" duration="16498000" />
+      <workItem from="1598016787140" duration="23534000" />
     </task>
     <servers />
   </component>
