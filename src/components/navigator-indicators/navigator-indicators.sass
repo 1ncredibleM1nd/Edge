@@ -1,0 +1,29 @@
+.nav-indicators
+  display: flex
+  flex-direction: column
+  position: absolute
+  top: 35%
+.nav-indicator
+  margin-bottom: 45px
+  list-style: none
+.nav-indicator-link
+  width: 3px
+  height: 3px
+  background: #F7FFF4
+  cursor: pointer
+  display: block
+  border-radius: 50%
+.active
+  position: relative
+  &:before
+    left: -6px
+    top: -6px
+    content: ''
+    position: absolute
+    width: 15px
+    height: 15px
+    border: 1px solid #F7FFF4
+    border-radius: 50%
+
+
+
