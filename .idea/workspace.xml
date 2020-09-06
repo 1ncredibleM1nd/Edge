@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64792ea9-6d2a-410a-a501-14e3171edbcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/command/arrow-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/command/arrow-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/command/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/command/command.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/command/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/command/sasha.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigator-indicators/navigator-indicators.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/command/command.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/command/command.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/App.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/App.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../siteForDasha" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -105,7 +99,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598016785143</updated>
-      <workItem from="1598016787140" duration="23534000" />
+      <workItem from="1598016787140" duration="25239000" />
+      <workItem from="1598545319661" duration="1140000" />
+      <workItem from="1599127780929" duration="99000" />
+      <workItem from="1599397974300" duration="2005000" />
     </task>
     <servers />
   </component>
@@ -117,7 +114,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
