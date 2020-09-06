@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64792ea9-6d2a-410a-a501-14e3171edbcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/projects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/projects.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/arrow-green.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/bots.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/services/sites.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/command/command.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/command/command.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/services/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/services/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/services/services.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/services/services.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/App.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/App.sass" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\React\edgewebstudio\src\components\services" />
       <recent name="B:\React\edgewebstudio\src\components\command" />
     </key>
   </component>
@@ -102,7 +113,7 @@
       <workItem from="1598016787140" duration="25239000" />
       <workItem from="1598545319661" duration="1140000" />
       <workItem from="1599127780929" duration="99000" />
-      <workItem from="1599397974300" duration="2005000" />
+      <workItem from="1599397974300" duration="26704000" />
     </task>
     <servers />
   </component>
